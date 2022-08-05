@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408277968291",
+    "project_id": "hello-dyanamic-links",
+    "storage_bucket": "hello-dyanamic-links.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408277968291:android:a6b149e2720dffffa06616",
+        "android_client_info": {
+          "package_name": "com.example.hello_dynamic_links"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408277968291-ep9t11d098oj7dboh6r2v5367dudfc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBURScLurbTZBxrgSX4XggaCR-9GrRuM3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408277968291-ep9t11d098oj7dboh6r2v5367dudfc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
